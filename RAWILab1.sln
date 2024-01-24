@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAWILab1", "RAWILab1\RAWILab1.csproj", "{D61F7E12-7513-416A-9ACD-1800AF5FEBDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D61F7E12-7513-416A-9ACD-1800AF5FEBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61F7E12-7513-416A-9ACD-1800AF5FEBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61F7E12-7513-416A-9ACD-1800AF5FEBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61F7E12-7513-416A-9ACD-1800AF5FEBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79AAC63C-3A90-4751-B0F4-07A70FE1E233}
+	EndGlobalSection
+EndGlobal
